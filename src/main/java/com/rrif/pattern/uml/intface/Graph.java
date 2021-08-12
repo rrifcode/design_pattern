@@ -1,4 +1,4 @@
-package main.java.com.rrif.uml.intface;
+package com.rrif.pattern.uml.intface;
 
 public interface Graph {
 

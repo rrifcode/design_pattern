@@ -1,4 +1,4 @@
-package main.java.com.rrif.uml.clazz;
+package com.rrif.pattern.uml.clazz;
 
 public class Student {
 

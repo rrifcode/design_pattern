@@ -1,6 +1,7 @@
-package main.java.com.rrif.uml.class_diagram;
+package com.rrif.pattern.uml.class_diagram;
 
-import main.java.com.rrif.uml.intface.Graph;
+
+import com.rrif.pattern.uml.intface.Graph;
 
 /**
  * 圆形
